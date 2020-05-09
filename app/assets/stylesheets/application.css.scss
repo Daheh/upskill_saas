@@ -41,6 +41,26 @@ h1,h2,h3 {
     }
 }
 
+.navbar-default .navbar-toggle {
+  border: 2 px solid white;
+  &:hover,&:focus{
+    background-color:#00c6ff;
+  }
+  .icon-bar{
+    background-color: white;
+  }
+}
+
+
+
+/* official code, my code up top
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #00c6ff;
+  }
+}
+*/
 
 .navbar {
   border: none;
