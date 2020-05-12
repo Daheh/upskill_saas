@@ -1,0 +1,6 @@
+Put useful tips and links here from the course.
+*Only started from video 110 +
+
+
+To get examples of data validations
+Gsearch: activerecord validations rails
