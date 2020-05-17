@@ -4,3 +4,9 @@ Put useful tips and links here from the course.
 
 To get examples of data validations
 Gsearch: activerecord validations rails
+
+
+
+TOREAD:
+http://getbootstrap.com/css/#grid
+https://guides.rubyonrails.org/action_controller_overview.html#session
