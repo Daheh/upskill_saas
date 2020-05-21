@@ -10,3 +10,4 @@ Gsearch: activerecord validations rails
 TOREAD:
 http://getbootstrap.com/css/#grid
 https://guides.rubyonrails.org/action_controller_overview.html#session
+https://guides.rubyonrails.org/association_basics.html
