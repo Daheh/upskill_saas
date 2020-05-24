@@ -17,7 +17,6 @@ gem 'jquery-rails', '4.1.1'
 gem 'turbolinks', '5.0.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '2.5.0'
-# Use Redis adapter to run Action Cable in production
 # gem 'redis', '3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
@@ -35,6 +34,12 @@ gem 'hirb', '0.7.3'
 
 # Use devise for user-auth
 gem 'devise', '4.2.0'
+
+#Use stripe for payment processing
+gem 'stripe', '1.48.0'
+
+#Use figaro for ENV variables
+gem 'figaro', '1.1.1'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
