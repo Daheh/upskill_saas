@@ -5,6 +5,8 @@ class ApplicationController < ActionController::Base
   # If coming from devise signup form
   before_action :configure_permitted_parameters, if: :devise_controller?
 
+  #Whitelist the following form fields so that we can process them.
+  #a Devise sign up form.
   protected
     def configure_permitted_parameters
       devise_parameter_sanitizer.permit(:sign_up) do |u|
