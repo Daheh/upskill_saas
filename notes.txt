@@ -14,4 +14,7 @@ https://guides.rubyonrails.org/association_basics.html
 
 activerecord (read on that)
 
-4111111111111111
+
+
+Pour aider a debugger, peux mettre dans une view :
+<%= debug(params) if Rails.env.development? %>
