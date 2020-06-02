@@ -16,7 +16,7 @@ class ProfilesController < ApplicationController
       flash[:success] = "Profile Updated!"
       redirect_to root_path
     else
-      render action :new
+      render action: :new
     end
     
   end
