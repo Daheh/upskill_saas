@@ -18,3 +18,6 @@ activerecord (read on that)
 
 Pour aider a debugger, peux mettre dans une view :
 <%= debug(params) if Rails.env.development? %>
+
+
+A essayer sur prod server : rails db:reset
