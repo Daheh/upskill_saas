@@ -1,1 +1,1 @@
-Add padding on wells 
+In community, shows Pro first and at random by class.

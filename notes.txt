@@ -12,6 +12,9 @@ http://getbootstrap.com/css/#grid
 https://guides.rubyonrails.org/action_controller_overview.html#session
 https://guides.rubyonrails.org/association_basics.html
 
+sql joins
+rails sql includes
+
 activerecord (read on that)
 
 
